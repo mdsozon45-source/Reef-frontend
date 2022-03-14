@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import "animate.min.css";
+@import "fontawesome.css";
+@import "color.css";
+@import "common.css";
+@import "card.css";
+@import "modal.css";
+@import "profile.css";
+@import "typo.css";
+@import "border.css";
+
+input[type="radio"] {
+    width: 18px;
+    height: 18px;
+    accent-color: #313131;
+}
+

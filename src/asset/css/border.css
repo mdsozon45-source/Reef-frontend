@@ -1,0 +1,94 @@
+.formSelect{
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: none!important;
+    padding: 5px;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+}
+
+.formSelectFill{
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: 1px solid black!important;
+    padding: 5px;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+
+.formInputBorder{
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: 1px solid black!important;
+    padding: 5px;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+}
+
+.formInputBorder:hover{
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: 1px solid black!important;
+    padding: 5px;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+}
+
+.formInputBorder:active{
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: 1px solid black!important;
+    padding: 5px;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+}
+
+.formInputBorder:focus{
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: 1px solid black!important;
+    padding: 5px;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+}
+
+.form-groupCustom {
+    margin-bottom: 0!important;
+}
+
+.form-group {
+    height: 40px!important;
+}
+
+.rowHeight{
+    height: 28px;
+}
+
+.form-controlHeight{
+    height: 23px;
+    padding-top: 0px!important;
+}
+
+.mTop{
+    margin-top: 5px;
+}
+
+.borderDisease{
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    border-bottom: 2px solid #d6d6d6 !important;
+    box-shadow: none!important;
+}
+
+.rowHeightDisease{
+    height: 35px;
+}

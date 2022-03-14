@@ -1,0 +1,18 @@
+// override bootstrap 4 variables
+$theme-color: (
+        "primary": #6a82fb,
+        "secondary": #fc5c7d,
+        "success": #45b649,
+        "danger": #f85032,
+        "warning": #ffd700,
+        "info": #00c9ff
+);
+
+$enable-gradients: true;
+
+// card
+$card-cap-bg: #fff;
+
+// sidebar
+$cr-sidebar-width: 250px;
+

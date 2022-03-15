@@ -8,6 +8,7 @@
 @import "profile.css";
 @import "typo.css";
 @import "border.css";
+@import "btn.css";
 
 input[type="radio"] {
     width: 18px;

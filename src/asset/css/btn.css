@@ -1,0 +1,9 @@
+.AddBtn{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #efefef;
+    border-radius: 20px;
+    background-color: #1d2124;
+    padding: 1px 16px 1px 16px;
+}

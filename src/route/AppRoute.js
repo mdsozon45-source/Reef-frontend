@@ -6,6 +6,7 @@ import DashboardPage from "../pages/DashboardPage";
 import CardPage from "../pages/CardPage";
 import TablePage from "../pages/TablePage";
 import FormPage from "../pages/FormPage";
+import Fish_Invertebrate_Data_Entry from "../pages/Fish_Invertebrate_Data_Entry";
 class AppRoute extends Component {
     render() {
         return (
@@ -15,7 +16,7 @@ class AppRoute extends Component {
                             <React.Suspense fallback={<PageSpinner />}>
                                 <Route exact path="/" component={DashboardPage} />
                                 <Route exact path="/substrate" component={CardPage} />
-
+                                <Route exact path="/fish-invertebrates" component={Fish_Invertebrate_Data_Entry} />
 
 
                                {/* <Route exact path="/tables" component={TablePage} />

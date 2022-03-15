@@ -37,6 +37,7 @@ const navContents = [
 const navItems = [
   { to: '/', name: 'dashboard', exact: true, Icon: MdDashboard },
   { to: '/substrate', name: 'SubStrate', exact: false, Icon: MdWeb },
+  { to: '/fish-invertebrates', name: 'Fish & Invertebrates', exact: false, Icon: MdWeb },
 ];
 
 const bem = bn.create('sidebar');
